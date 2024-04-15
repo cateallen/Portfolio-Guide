@@ -14,6 +14,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [SQL Queries](https://github.com/cateallen/TradeData_SQL_Queries) | SQL Queries for Trade Lane Data by HS6 code starting with importing the data, data cleaning/validation, data transformation |
+| 💡 [SQL Queries](https://github.com/cateallen/TradeData_SQL_Queries) |  Data extracting, transforming, validation, and analysis | SQL Queries for Trade Lane Data by HS6 Code |
+ 
 
 
