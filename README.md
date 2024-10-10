@@ -10,6 +10,12 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
+# Data Engineering
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| 💡.[DFS_IslandsCount](https://github.com/cateallen/DFS_IslandsCount) | Python, DFS, flood fill algorithm, maze solving, connected component counting in graphs | Example using Python of an algorithmic problem where the goal is to count the number of islands in a given grid using DFS |
+
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
