@@ -47,6 +47,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
+| 💡[sales-data](https://github.com/cateallen/sales-data) | ETL Pipeline creation using Apache Airflow | Sales-data.csv file as an example of the ETL process and automating pipelines |
 
 # Data Warehousing
 
