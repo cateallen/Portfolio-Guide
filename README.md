@@ -73,5 +73,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
+| 💡[Marathon-Dynamics](https://github.com/cateallen/Marathon-Dynamics) | Creates data Visualizations of Marathon Data for analyzation of different metrics | Sourced marathon race data from different events worldwide, uncovering insights into race times, weather conditions, course elevation, and runner demographics. |
 
 
